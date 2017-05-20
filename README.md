@@ -26,7 +26,7 @@ You can download a binary for your platform in the [Releases](https://github.com
 ### If you have Go installed
 
 ```bash
-go get https://github.com/dstpierre/termrr
+go get github.com/dstpierre/termrr
 ```
 
 ## Usage
